@@ -1,0 +1,7 @@
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\WebSpider\obj\Debug\WebSpider.csprojAssemblyReference.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\WebSpider\obj\Debug\WebSpider.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\WebSpider\bin\Debug\WebSpider.exe.config
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\WebSpider\bin\Debug\WebSpider.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\WebSpider\bin\Debug\WebSpider.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\WebSpider\obj\Debug\WebSpider.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\WebSpider\obj\Debug\WebSpider.pdb

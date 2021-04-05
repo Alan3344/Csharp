@@ -1,0 +1,10 @@
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\bin\Debug\DataFile.exe.config
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\bin\Debug\DataFile.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\bin\Debug\DataFile.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\obj\Debug\DataFile.csprojAssemblyReference.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\obj\Debug\DataFile.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\obj\Debug\DataFile.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\obj\Debug\DataFile.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\DataFile\obj\Debug\DataFile.csproj.CopyComplete

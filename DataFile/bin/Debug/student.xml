@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <student type="long" id="202103100049">
+    <name type="string">小芳</name>
+    <age type="int">23</age>
+  </student>
+</root>

@@ -1,0 +1,10 @@
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\obj\Debug\UserDll.csprojAssemblyReference.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\obj\Debug\UserDll.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\bin\Debug\UserDll.exe.config
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\bin\Debug\UserDll.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\bin\Debug\UserDll.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\bin\Debug\AfExample.dll
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\bin\Debug\AfExample.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\obj\Debug\UserDll.csproj.CopyComplete
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\obj\Debug\UserDll.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\UserDll\obj\Debug\UserDll.pdb

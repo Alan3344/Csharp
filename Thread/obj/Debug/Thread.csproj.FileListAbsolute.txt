@@ -1,0 +1,7 @@
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\Thread\bin\Debug\MyThread.exe.config
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\Thread\bin\Debug\MyThread.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\Thread\bin\Debug\MyThread.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\Thread\obj\Debug\MyThread.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\Thread\obj\Debug\MyThread.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\Thread\obj\Debug\Thread.csprojAssemblyReference.cache

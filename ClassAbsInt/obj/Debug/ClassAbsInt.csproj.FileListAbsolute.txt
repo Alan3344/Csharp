@@ -1,0 +1,7 @@
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassAbsInt\bin\Debug\ClassAbsInt.exe.config
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassAbsInt\bin\Debug\ClassAbsInt.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassAbsInt\bin\Debug\ClassAbsInt.pdb
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassAbsInt\obj\Debug\ClassAbsInt.csprojAssemblyReference.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassAbsInt\obj\Debug\ClassAbsInt.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassAbsInt\obj\Debug\ClassAbsInt.exe
+C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassAbsInt\obj\Debug\ClassAbsInt.pdb
