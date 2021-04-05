@@ -1,7 +1,0 @@
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\SystemAPI\bin\Debug\SystemAPI.exe.config
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\SystemAPI\bin\Debug\SystemAPI.exe
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\SystemAPI\bin\Debug\SystemAPI.pdb
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\SystemAPI\obj\Debug\SystemAPI.csprojAssemblyReference.cache
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\SystemAPI\obj\Debug\SystemAPI.csproj.CoreCompileInputs.cache
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\SystemAPI\obj\Debug\SystemAPI.exe
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\SystemAPI\obj\Debug\SystemAPI.pdb

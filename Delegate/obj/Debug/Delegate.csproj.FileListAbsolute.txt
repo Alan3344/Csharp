@@ -1,7 +1,0 @@
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\Delegate\obj\Debug\Delegate.csprojAssemblyReference.cache
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\Delegate\bin\Debug\Delegate.exe.config
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\Delegate\bin\Debug\Delegate.exe
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\Delegate\bin\Debug\Delegate.pdb
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\Delegate\obj\Debug\Delegate.exe
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\Delegate\obj\Debug\Delegate.pdb

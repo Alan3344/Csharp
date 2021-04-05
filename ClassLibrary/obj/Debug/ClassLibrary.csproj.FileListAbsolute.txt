@@ -1,5 +1,0 @@
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassLibrary\bin\Debug\AfExample.dll
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassLibrary\bin\Debug\AfExample.pdb
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassLibrary\obj\Debug\AfExample.dll
-C:\Users\Xander\source\repos\CSharp\ConsoleApp\ClassLibrary\obj\Debug\AfExample.pdb
